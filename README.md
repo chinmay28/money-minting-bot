@@ -1,6 +1,7 @@
 ## Money Minting Bot 
 Version 1.0:
-Links:
+
+* Links:
 1. ETF IPO: www.etf.com/IPO/
 2. ETF VTI: www.etf.com/VTI/
 3. ETF QTEC: www.etf.com/QTEC/
