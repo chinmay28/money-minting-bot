@@ -1,4 +1,4 @@
-* Money Minting Bot *
+## Money Minting Bot 
 Version 1.0:
 Links:
 1. ETF IPO: www.etf.com/IPO/
